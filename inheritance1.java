@@ -6,5 +6,9 @@ public class inheritance1
         System.out.println("hello azad..........");
         System.out.println("FGUIFGGFGFF");
         System.out.println("hello azad..........");
+        System.out.println("FGUIFGGFGFF");
+        System.out.println("hello azad..........");
+        System.out.println("FGUIFGGFGFF");
+        System.out.println("hello azad..........");
     }
 }
