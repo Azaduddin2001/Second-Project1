@@ -10,5 +10,6 @@ public class inheritance1
         System.out.println("hello azad..........");
         System.out.println("FGUIFGGFGFF");
         System.out.println("hello azad..........");
+        System.out.println("HEllo Every one How are you ,i Hope you are grede");
     }
 }
